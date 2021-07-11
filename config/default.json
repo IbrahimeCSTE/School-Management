@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://mim:12345@cluster0.tfzr2.mongodb.net/WebDev?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+}
